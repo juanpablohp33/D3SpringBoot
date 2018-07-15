@@ -85,7 +85,12 @@
 
       cd BackEnd
       
-8. 
+8. Ingresar a la carpeta venta y ejecutar el siguientes comando (ruta:$HOME/PEC3/D3SpringBoot/BackEnd/venta):
+    
+    mvn clean install
+    
+9. Ingresar a la carpeta target (ruta:$HOME/PEC3/D3SpringBoot/BackEnd/venta/target)
+    
+10. Ejecutar el comando java -jar ventas-0.0.1-SNAPSHOT.jar.
 
-2. Ejecutar el comando java -jar ventas-0.0.1-SNAPSHOT.jar.
-3. Después se publica un Api Rest, probarlo con Postman.
+11. la URL es la siguiente
