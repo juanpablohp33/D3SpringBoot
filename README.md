@@ -16,7 +16,10 @@
 1. UTILIZAR GOOGLE CHROME.
 2. INSTALAR CORS.
 3. INSTALAR D3.
-4. Darle doble click a los archivos que se encuentran en la siguiente ruta: " 
+4. Darle doble click a los archivos que se encuentran en la siguiente ruta: "$HOME/PEC3/D3SpringBoot/FrontEnd"
+5. El nombre de los archivos son:
+        index.html
+        index_barras.html
 
 # BASE DE DATOS
 1. ingresar con el siguiente comando linux:
@@ -57,6 +60,13 @@
 
 
 # BACK END
+I. Si solo desea correr el proyecto se debe ejecutar los siguientes pasos:
+
+    1. Ingresar a la ruta "$HOME/PEC3/D3SpringBoot/BackEnd/venta/target":
+    2. Ejecutar el comando: "java -jar ventas-0.0.1-SNAPSHOT.jar"
+    3. La URL es la siguiente: "http://localhost:8080/user"
+
+II.
 1. Crear una carpeta PCE3.
     
     Linux:
