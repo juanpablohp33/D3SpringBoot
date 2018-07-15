@@ -18,6 +18,41 @@
 3. INSTALAR D3.
 
 # BASE DE DATOS
+1. ingresar con el siguiente comando linux:
+
+    sudo mysql
+
+2. Depués configurar el password de la base de datos Mysql
+
+    mysql> ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pr4ct1c4';
+    mysql> FLUSH PRIVILEGES;
+    
+3. Para validar el cambio ejecutar el siguiente comando:
+
+    mysql -u root -p
+
+4. Después mostrará que se ingrese el password.
+5. Crear la base de datos ebenezer, con los siguientes comandos linux:
+    CREATE DATABASE ebenezer;
+6. Ejecutar el comando, para seleccionar la base de datos creada en el punto anterior:
+
+    use ebenezer;
+
+7. Ejecutar el script que se encuentra en la ruta $HOME/PEC3/D3SpringBoot/BackEnd/Datos/ebenezer_articles.sql
+8. También se puede realizar en consola, ejecutando lo siguiente:
+    
+    mysql> CREATE TABLE `articles` (
+  `article_id` int(11) NOT NULL DEFAULT '10',
+  `title` varchar(200) NOT NULL,
+  `category` varchar(200) NOT NULL,
+  `monto` int(11) NOT NULL,
+  `vistos` int(11) NOT NULL,
+  PRIMARY KEY (`article_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+9. Para verificar la creación de la tabla, ejecutar el siguiente comando:
+
+        msql> show tables;
 
 
 # BACK END
