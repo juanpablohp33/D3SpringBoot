@@ -1,0 +1,8 @@
+/home/jhernandez/PEC3/D3SpringBoot/BackEnd/venta/src/main/java/com/ebenezer/ventas/service/ArticleService.java
+/home/jhernandez/PEC3/D3SpringBoot/BackEnd/venta/src/main/java/com/ebenezer/ventas/dao/ArticleDAO.java
+/home/jhernandez/PEC3/D3SpringBoot/BackEnd/venta/src/main/java/com/ebenezer/ventas/client/RestClientUtil.java
+/home/jhernandez/PEC3/D3SpringBoot/BackEnd/venta/src/main/java/com/ebenezer/ventas/entity/Article.java
+/home/jhernandez/PEC3/D3SpringBoot/BackEnd/venta/src/main/java/com/ebenezer/ventas/VentasApplication.java
+/home/jhernandez/PEC3/D3SpringBoot/BackEnd/venta/src/main/java/com/ebenezer/ventas/controller/ArticleController.java
+/home/jhernandez/PEC3/D3SpringBoot/BackEnd/venta/src/main/java/com/ebenezer/ventas/service/IArticleService.java
+/home/jhernandez/PEC3/D3SpringBoot/BackEnd/venta/src/main/java/com/ebenezer/ventas/dao/IArticleDAO.java

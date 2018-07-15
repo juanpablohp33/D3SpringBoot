@@ -1,0 +1,8 @@
+com/ebenezer/ventas/client/RestClientUtil.class
+com/ebenezer/ventas/service/ArticleService.class
+com/ebenezer/ventas/dao/IArticleDAO.class
+com/ebenezer/ventas/controller/ArticleController.class
+com/ebenezer/ventas/dao/ArticleDAO.class
+com/ebenezer/ventas/service/IArticleService.class
+com/ebenezer/ventas/VentasApplication.class
+com/ebenezer/ventas/entity/Article.class
