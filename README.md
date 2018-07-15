@@ -16,6 +16,7 @@
 1. UTILIZAR GOOGLE CHROME.
 2. INSTALAR CORS.
 3. INSTALAR D3.
+4. Darle doble click a los archivos que se encuentran en la siguiente ruta: " 
 
 # BASE DE DATOS
 1. ingresar con el siguiente comando linux:
@@ -93,4 +94,4 @@
     
 10. Ejecutar el comando java -jar ventas-0.0.1-SNAPSHOT.jar.
 
-11. la URL es la siguiente
+11. La URL es la siguiente: "http://localhost:8080/user"
